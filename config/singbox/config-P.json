@@ -81,7 +81,7 @@
       "type": "remote",
       "tag": "qcy",
       "path": "./qcy.json",
-      "download_url": "订阅地址",
+      "download_url": "https://sub.miaolianyun.vip/mly_sub?token=27aa1f0fce93d33af268ca953fc0a26a",
       "download_ua": "clash",
       "enable_healthcheck": true,
       "healthcheck_url": "https://www.gstatic.com/generate_204",
